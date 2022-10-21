@@ -92,3 +92,40 @@ Done!
 - [How to Make Omurice (EASY Japanese Omelette Rice Recipe) | OCHIKERON | Create Eat Happy :) from ochikeron](https://www.youtube.com/watch?v=FCmfXqVJc6Q)
 
 ## Omelette
+
+## Ramen
+
+## Oatmeal
+
+1. Add oatmeal + enough milk to cover it
+2. Put it into the microwave for 2 minutes
+3. Once done, add a tablespoon of peanut butter and mix with the oatmeal.
+   1. Tip: Use the back of your spoon to fish out the peanut butter from the jar. Makes it easier to get off the spoon!
+4. Cut up a banana and add it in for good measure.
+
+Enjoy!
+
+## Fried Rice
+
+## Fried Noodles
+
+## Peanut Noodles
+
+- https://www.thewholesomedish.com/sesame-peanut-butter-noodles/
+- https://showmetheyummy.com/thai-peanut-noodles-recipe/
+- https://www.servedfromscratch.com/10-minute-peanut-noodles/
+
+## WIP
+
+Stuff I'm trying or want to try, but not really happy with yet:
+
+- Miso Fried Rice
+  - https://www.youtube.com/watch?v=644SigfBiWw
+- Miso Soup + Noodles
+- Lanzhou beef noodle soup
+  - https://thewoksoflife.com/lanzhou-beef-noodle-soup/
+- Mala xiang guo
+- Tilapia + five spice powder
+- Curry variations
+  - https://tipbuzz.com/chow-mei-fun/
+    - Mixes vermicelli with meats, veggies, and curry sauce
