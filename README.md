@@ -4,6 +4,15 @@ My collection of go-to recipes with corresponding tutorial videos and notes.
 
 ## Kimichi Fried Rice
 
+1. 3 tbsp of kimichi to hot pan
+2. Cook until soft
+3. Add in rice
+4. Add in 1 tbsp of gochujang and 1 tbsp of soy sauce and 1 teaspoon of sesame oil
+5. Mix (turn off/down heat if rice is burning)
+6. Cook an overeasy egg with a runny yolk if you have some eggs.
+
+Done!
+
 ## Omurice
 
 **My way:**
