@@ -6,4 +6,36 @@ My collection of go-to recipes with corresponding tutorial videos and notes.
 
 ## Omurice
 
+**My way:**
+
+- Prep:
+
+  - Cook around 1 serving of rice (0.75-1.5 cups of rice)
+  - Mince garlic (2-4 cloves)
+  - Dice 1/3-1/2 of an onion (save the leftovers for later)
+  - Dice a carrot (optional)
+  - Crack two eggs, add a little bit of milk, and whisk them.
+    - Add salt and pepper to taste.
+
+- Cooking the fried rice:
+
+  1. Preheat the pan with high heat.
+  2. Turn down the heat to medium high heat once the pan is hot and put in oil.
+  3. Put in the garlic and cook for 15-30 seconds (make sure they're not overcooked)
+  4. Put in the onions. Cook until onions are clear. Feel free to turn down the heat if you feel that the pan is too hot.
+     1. Move the onions around occassionally to prevent burning.
+     2. You can put in carrots in this step too.
+     3. If you're good, flip the pan contents like this dude in his [tutorial](https://www.youtube.com/watch?v=q_nosb-2mX4).
+  5. Put in the rice.
+  6. Add in 1 tbsp of soy sauce and 2 tbsp of ketchup.
+  7. Mix (turn down heat if too hot or rice is burning) and add salt/pepper to taste.
+  8. Clean the pan or make a sauce with the extra stuff.
+
+- Cooking the omelette:
+
+  - Don't overcook it, just go slow.
+
+- [Omurice (Omelette Rice) | 회오리 오므라이스 from BORED](https://www.youtube.com/watch?v=KtoB71tQC0g)
+- [How to Make Omurice (EASY Japanese Omelette Rice Recipe) | OCHIKERON | Create Eat Happy :) from ochikeron](https://www.youtube.com/watch?v=FCmfXqVJc6Q)
+
 ## Omelette
