@@ -2,6 +2,25 @@
 
 My collection of go-to recipes with corresponding tutorial videos and notes.
 
+## Japchae
+
+From Maangchi: https://www.youtube.com/watch?v=i1djfV9uigc&t=717s
+
+**Sauce:**
+
+- 1 tablespoon sugar
+- 1 tablespoon soy sauce
+- LOTS of black pepper
+- 1 teaspoon of sesame oil
+
+1. Cook veggies and meat
+2. Boil sweet potato noodles
+3. Mix the two (better if you don't mix them on pan)
+4. Add sauce and mix gently.
+5. Cut the noodles with a scissor (like 2 times ish)
+
+Done!
+
 ## Stir Fried Shin Ramen
 
 https://www.youtube.com/watch?v=bx2AWdKfA_s
