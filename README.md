@@ -2,6 +2,31 @@
 
 My collection of go-to recipes with corresponding tutorial videos and notes.
 
+## Stir Fried Shin Ramen
+
+https://www.youtube.com/watch?v=bx2AWdKfA_s
+
+**Sauce:**
+
+- MSG packet
+- 1 tablespoon soy sauce
+- 1 tablespoon sugar
+- 1 teaspoon sesame oil
+- 2 tablespoon water
+
+- **Summary:**
+
+1. Boil noodles first (take them out a little early when aldente).
+2. Oil + **Medium-low** heat
+3. Cook garlic for a bit.
+4. Put in noodles
+5. Put in sauce
+6. Stir
+
+Done!
+
+(Can cook egg + spam or any of sides and mix if you want to)
+
 ## Kimichi Fried Rice
 
 1. 3 tbsp of kimichi to hot pan
